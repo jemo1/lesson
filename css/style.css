@@ -1,0 +1,99 @@
+.box{
+    width: 1300px;
+    height: 700px;
+    background-color: #56836F;
+    margin: 40px;
+}
+.logo{
+    float: right;
+    margin-top: 49px;
+    margin-right: 55px;
+}
+.clear{
+    clear: both;
+}
+.li{
+    display: inline-block;
+    font-size: 48px;
+    margin-top: 36px;
+}
+.home{
+    margin-left: 177px;
+    margin-right: 60px;
+    color: white;
+}
+.news{
+    margin-right: 60px;
+    color: white;
+}
+.about{
+    margin-right: 60px;
+    color: white;
+}
+.contact{
+    color: white;
+}
+.box1{
+    float: right;
+    width: 523px;
+    height: 321px;
+    background-color: #FCEE21;
+    margin-bottom: 80px;
+    margin-right: 56px;
+    margin-top: 63.6px;
+    margin-left: 18px;
+}
+.logo2{
+    float: left;
+    width: 151px;
+    height: 118px;
+    margin-top: 18px;
+    margin-left: 26px;
+    margin-right: 22px;
+}
+.p1{
+    text-indent: 30px;
+    margin-top: 17.7px;
+    margin-left: 26px;
+    font-size: 15px;
+    margin-right: 44px;
+    color: #006837;
+    font-family: 'Roboto';
+    
+}
+.p2{
+    margin-top: 24px;
+    margin-left: 26px;
+    font-size: 15px;
+    color: #006837;
+}
+.box2{
+    float: right;
+    width: 563px;
+    height: 321px;
+    background-color: #FCEE21;
+    margin-right: 18px;
+    margin-left: 72px;
+    margin-bottom: 80px;
+    margin-top: 63.6px;
+}
+.logo3{
+    float: right;
+    width: 151px;
+    height: 118px;
+    margin-top: 18px;
+    margin-right: 32px;
+}
+.p3{
+    margin-top: 17.7px;
+    margin-left: 26px;
+    font-size: 14px;
+    color: #006837;
+    font-family: 'Roboto';
+}
+.p4{
+    margin-top: 24px;
+    font-size: 14px;
+    margin-left: 26px;
+    color: #006837;
+}
